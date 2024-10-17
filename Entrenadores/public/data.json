@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "8 Semanas para crecer glúteos",
+        "price": 20000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/de12dec1-b8bd-4fe7-9d27-ba407620b78f-9d256c48bc72d7184517057791618222-480-0.webp",
+        "descripcion": [
+            "- Una guía práctica y explicada de todo lo que necesitas saber sobre tu rutina de entrenamiento.",
+            "- Guía de alimentación completa + recetas. Rutina de entrenamiento enfocada en glúteos y todos los tips para saber cómo trabajarlos.",
+            "- Opcional: Vas a entrar en un grupo de WhatsApp donde vas a poder hablar con Mili y compartir tu reporte diario."
+        ],
+        "cantidad": 1 ,
+        "category": "entrenamiento"
+    },
+    {
+        "id": 2,
+        "title": "Asesorias personalizadas",
+        "price": 9000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/whatsapp-image-2024-03-09-at-20-33-42-eab9555e109ea558db17101898663171-480-0.webp",
+        "descripcion": [
+            "- Asesoramiento totalmente personalizado y pensado para vos.",
+            "- Guia alimentaria, con diferentes sugerencias y recetas.",
+            " - Rutina de entrenamiento enfocado especificamente en tus necesidades.",
+            "- Tips y mis mejores recomendaciones, que a mi me sirvieron para crecer mis gluteos!. "
+        ],
+        "cantidad": 1,
+        "category": "entrenamiento"
+    },
+    {
+        "id": 3,
+        "title": "Rutina enfoque en glúteos (4 días)",
+        "price": 20000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/c16cf1fe-3739-4879-b839-6fa2f8ef4c0c-58ce7835803940700717057777603624-1024-1024.webp",
+        "descripcion": [
+            "Rutina enfoque en glúteos (GAP):En este paquete encontrarás un programa de entrenamiento de 4 semanas (musculación solo en gimnasio)  Incluye lo siguiente:",
+            "-Entrenamiento de 4 días a la semana enfocado solo en GAP.",
+            "-Videos demostrativos de la ejecución de los ejercicios.",
+            "-Jornadas dedicadas a piernas, glúteos e isquiotibiales, abdominales, y cardio.-1 día de descanso completo + 2 días de descanso activo (solo caminata) para dar tiempo a la recuperación y crecimiento muscular."
+        ],
+        "cantidad": 1,
+        "category": "entrenamiento"
+    },
+    {
+        "id": 4,
+        "title": "Rutina en casa (3 días)",
+        "price": 20000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/12bff851-c560-408c-875f-7c76ba4cba49-e8bead11d8d99ef30817057787487737-480-0.webp",
+        "descripcion": [
+            "En este paquete encontrarás un programa de entrenamiento de 4 semanas (musculación en casa) Incluye lo siguiente:",
+            "-Entrenamiento de 3 días a la semana -Videos demostrativos de la ejecución de los ejercicios.",
+            "-Jornadas dedicadas a piernas, glúteos e isquiotibiales, abdominales, tren superior y cardio- 1 día de descanso activo (solo caminata) para dar tiempo a la recuperación y crecimiento muscular."
+        ],
+        "cantidad": 1,
+        "category": "entrenamiento"
+    }
+]

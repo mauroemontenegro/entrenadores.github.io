@@ -1,0 +1,157 @@
+.modal-header {
+  display: flex;
+  justify-content: center;
+  background-color: #222121;
+  color: white;
+  height: 65px;
+  align-items: center;
+  margin-top: 80px;
+  text-align: center;
+  margin-left: -550px;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+.modal-container {
+  /* width: 215.8vh; */
+  min-height: 100vh;
+  top: 0;
+  overflow-y: hidden;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+.modal-content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  box-shadow: 0 1px 0px 0 rgb(182, 182, 182);
+}
+
+.modal-content img {
+  width: 140px;
+  margin-right: 80px;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+.modal-content h3 {
+  font-size: 0.99em;
+  color: black;
+}
+
+.modal-content p {
+  color: black;
+  font-size: 1em;
+  margin-top: 2px;
+  font-weight: 600;
+  margin-left: 200px;
+}
+
+.modal-content .cantidad-final {
+  margin-left: 200px;
+}
+
+.modal-content .precio-cantidad-final {
+  margin-left: 80px;
+}
+
+.modal-content button {
+  margin-left: 190px;
+}
+
+.modal-container .precioTotal {
+  display: flex;
+  justify-content: center;
+  color: black;
+  margin-top: 20px;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.modal-container .carrito {
+  margin-left: 580px;
+}
+.modal-container .carritoVa {
+  display: flex;
+  justify-content: center;
+  color: black;
+  margin-top: 80px;
+}
+.eliminar-boton {
+  color: white;
+  border: none;
+  background-color: rgb(199, 51, 51);
+  width: 40px;
+  height: 35px;
+  font-size: 1em;
+  border-radius: 5px;
+}
+.eliminar-boton:hover {
+  background-color: red;
+}
+/* .finalizar{
+    margin-left: 600px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+} */
+.finalizar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.btn-fin {
+  background-color: rgb(61, 60, 60);
+  color: white;
+  border-radius: 5px;
+  width: 280px;
+  height: 45px;
+  font-size: 1em;
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: 700;
+}
+.btn-fin:hover {
+  background-color: black;
+}
+@media screen and (max-width:500px){
+  .modal-header{
+    height: 50px;
+    margin-top: 60px;
+    }
+    .modal-header h3{
+    margin-left: 0px;
+    font-size: 0.8em;
+  }
+  .modal-content{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: flex-start;
+    /* flex-direction: row; */
+  }
+  .modal-content  img{
+    margin: 0px;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  .modal-content p{
+    /* justify-content: end; */
+    /* text-align: end; */
+    margin-left: 0px;
+    margin-top: 10px;
+    /* color: aquamarine; */
+  }
+  .modal-content .cantidad-final{
+    margin-left: 0px;
+  }
+.modal-content button {
+  margin-left: 250px;
+  margin-bottom: 20px;
+}
+  
+}

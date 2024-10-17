@@ -1,0 +1,124 @@
+.alimentacion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.alimentacion button{
+ font-size: 0.9em;
+  margin-top: 80px;
+  width: 230px;
+  height: 45px;
+  border: none;
+  color: rgb(20, 20, 20);
+  background-color: #f7d3e3;
+
+
+  transition: all 0.5s ease;
+  border-radius: 20px;
+}
+.alimentacion button:hover{
+  background-color: #f0a8c9;
+  transform: scale(1.1);
+}
+.alimentacion h2{
+    width: 100%;
+    text-align: center;
+    font-size: 76px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Anton", sans-serif;
+
+    
+    
+}
+.alimentacion h3  {
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.alimentacion .text-p{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.cont-text img{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: center; */
+    width: 550px;
+    border-radius: 3px 10px 10px 3px;
+}
+
+.cont-text .text-1{
+    display: flex;
+    flex-direction: column; 
+    font-size: 1.3em;
+    justify-content: center;
+    align-items: center;
+}
+.cont-text{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border-radius: 10PX;
+    box-shadow: 6px 10px 36px -4px rgb(192, 192, 192);
+}
+@media screen and (max-width:500px){
+    .alimentacion{
+        width: 400px;
+        justify-content: center;
+        text-align: center;
+        height: 100vh;
+    }
+    .alimentacion h2{
+        height: 100px;
+        /* width:200px ; */
+        font-size: 1.8em;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        /* padding: 20px 5px 20px 5px; */
+        /* text-wrap: wrap; */
+
+    }
+    .cont-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 415px;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    .cont-text img{
+        width: 360px;
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-bottom: 30px;
+        align-items: center;
+
+    }
+    .text-1{
+        width: 380px;
+    }
+    .text-1 h3{
+        font-size: 1em;
+    }
+    .text-1 p{
+        font-size: 0.8em;
+    }
+    .text-1 button{
+        margin-top:50px;
+        margin-bottom: 50px;
+    }
+
+}
+
+

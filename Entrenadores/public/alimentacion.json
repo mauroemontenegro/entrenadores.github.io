@@ -1,0 +1,52 @@
+[
+    {
+        "id": 5,
+        "title": "Guia de alimentación volumen limpio",
+        "price": 7000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/whatsapp-image-2024-03-02-at-01-53-37-66b1fc4806cd0c7da417093563441778-480-0.webp",
+        "descripcion": [
+            "- Destinado a personas que quieran ganar masa muscular.",
+            "- Este programa de 4 semanas incluye:",
+            "- Opciones de desayuno, almuerzo, meriendas y cenas",
+            "- Recomendación de ayuno intermitente",
+            "- Opciones sin lactosa, veganas y sin tacc.",
+            "- Tips de alimentacion + recetas.",
+            "- Sugerencias de lista de compras del supermercado"
+        ],
+        "cantidad": 1,
+        "category": "alimentacion"
+    },
+    {
+        "id": 6,
+        "title": "Guia de alimentación definicion",
+        "price": 7000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/whatsapp-image-2024-03-11-at-18-05-45-fcb3d63899e36602d217101918304099-480-0.webp",
+        "descripcion": [
+            "- Destinado a personas que quieran perder grasa.",
+            "- Este programa de 4 semanas incluye:",
+            "- Opciones de desayuno, almuerzo, meriendas y cenas",
+            "- Recomendación de ayuno intermitente",
+            "- Opciones sin lactosa, veganas y sin tacc.",
+            "- Tips de alimentacion + recetas.",
+            "- Sugerencias de lista de compras del supermercado"
+        ],
+        "cantidad": 1,
+        "category": "alimentacion"
+    },
+    {
+        "id": 7,
+        "title": "Guia de ayuno intermitente(perder grasa)",
+        "price": 7000,
+        "img": "https://acdn.mitiendanube.com/stores/003/905/675/products/c88eafd5-cdd8-4665-a955-d29adc4ebfad-68f690f0db894eb79217065422012491-480-0.webp",
+        "descripcion": [
+            "- Destinado a personas que quieran ganar masa muscular.",
+            "- Este programa de 4 semanas incluye:",
+            "- Que es ayuno intermitente y sus beneficios",
+            "- Opciones de desayuno, almuerzo, meriendas y cenas",
+            "- Opciones sin lactosa, veganas y sin tacc.",
+            "- Sugerencias de lista de compras del supermercado"
+        ],
+        "cantidad": 1,
+        "category": "alimentacion"
+    }
+]
